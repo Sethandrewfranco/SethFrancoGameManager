@@ -134,7 +134,7 @@ public class SimpleGameManager : MonoBehaviour
         questStates.Add("Target 2", false);
         questDescriptions.Add("Target 2", "Smoked the little imp!");
         questStates.Add("Target 3", false);
-        questDescriptions.Add("Target 1", "Annihilated the alien trooper!");
+        questDescriptions.Add("Target 3", "Annihilated the alien trooper!");
         Debug.Log("Added Quests for Target 1, Target 2, and Target 3");
     }
 
